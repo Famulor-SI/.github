@@ -39,6 +39,7 @@
 | **TypeScript SDK** | Calls the Famulor API from your code: `npm install famulor-sdk`. | [Docs](https://docs.famulor.io/sdk/overview) |
 | **REST API** | Manages assistants, calls, campaigns and conversations. | [API reference](https://docs.famulor.io/api-reference/introduction) |
 | **n8n and Zapier** | Start workflows from calls and messages. | [n8n](https://docs.famulor.io/automations/n8n) · [Zapier](https://docs.famulor.io/automations/zapier) |
+| **Famulor Marketplace** | Connectors and automation templates from app vendors and developers, reviewed by Famulor. Request a missing app or submit your own. | [famulor-marketplace](https://github.com/Famulor-SI/famulor-marketplace) |
 
 ### Quick start
 
